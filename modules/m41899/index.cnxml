@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Trading and Time Series Analysis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41899</md:content-id>
+  <md:title>Trading and Time Series Analysis</md:title>
+  <md:abstract/>
+  <md:uuid>34571f54-5c0b-484f-9a71-935cc3351142</md:uuid>
+</metadata>
+
+<content>
+  <para id="trading1"><title>Relevance to Traders</title><!-- Insert module text here -->
+
+
+The crude oil futures market is important to traders, investors, and business leaders.  Short-term or "high-frequency" traders trade quickly on positive margin to make money.  Medium-term traders tend to follow the business cycle by buying when the market is at a low and selling or shorting when it's at a high.  Long-term investors are looking for long-term , reliable growth.  Business leaders in the oil industry, on the other hand, are looking at futures and deciding when it's time to increase or decrease production.  Management teams in fuel-dependent industries, such a aviation and shipping, are looking to see when its time to buy oil futures to guarantee purchase at some fixed (and predictable) future price.
+</para>
+
+<para id="eip-967"><media id="ET" alt="Energy Trading">
+     <image mime-type="image/png" src="../../media/Etrading.jpg"/>
+  </media>
+</para><para id="trading2">
+All these market participators are looking for the same thing in their technical analysis of the market:  patterns.  The main patterns that time series analysis goes after are trend and seasonality.
+
+<list id="trendseasonality"><item><emphasis>Trend</emphasis> is an overall trend of the time series.  This can often be found by "filtering" the time series using a moving-window average.</item>
+  <item><emphasis>Seasonality</emphasis> is the periodic recurrence of a similar pattern in the data.  This can be seen in consumer demand for fuel over the course of many years. </item>
+</list> 
+</para><para id="eip-810">
+
+<figure id="cute-dog"><media id="GD" alt="Gasoline Demand">
+     <image mime-type="image/png" src="../../media/Gasoline_Demand.png"/>
+  </media>
+<caption>Gasoline consumer demand since 2001.  Notice the periodicity present in this time series.</caption></figure>
+
+</para>
+
+</content>
+
+</document>

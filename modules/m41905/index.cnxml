@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Wavelet Analysis:  A New Approach</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41905</md:content-id>
+  <md:title>Wavelet Analysis:  A New Approach</md:title>
+  <md:abstract/>
+  <md:uuid>871e9cfc-b22f-4982-bbb7-7ce89c76c6c0</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><title>The Path to a Solution</title><!-- Insert module text here -->
+  To try to solve some of the problems caused by taking an inconclusive transform of a whole time series, Dennis Gabor developed Short-Time Fourier Analysis on windowed signals in 1946.  However, this approach offered no variability to determine time or frequency more accurately in any particular window.  Wavelet analysis was developed as a windowing technique which allowed for <foreign>differently-sized windows</foreign> to be compared to a wavelet signal, therefore allowing determination of time AND frequency.  The basic premise is derived from Fourier transforms, but instead of composing a signal of different frequency and amplitude sinusoids, wavelets of the same waveform but different <foreign>lengths</foreign> are compared and correlated to a signal.</para><para id="eip-942">Wavelet analysis has many benefits which make it a more applicable tool for analyzing the financial markets.  This:
+
+<list id="waveletbenefits"><item>uses <emphasis>long</emphasis>-time wavelet-analysis intervals for finding precise <emphasis>low</emphasis>-frequency information.</item><item>uses <emphasis>short</emphasis>-time wavelet-analysis intervals for finding precise <emphasis>high</emphasis>-frequency information.</item><item>performs local analysis, which allows us  see frequency events at a specific times in a signal.</item>
+<item>works much better with non-linear signals.</item>
+</list> </para><para id="eip-125"><figure id="eip-id1169703034086"><media id="Sunspot" alt="Sunspots analyzed with the Wavelet Method">
+     <image mime-type="image/png" src="../../media/Sunspot_wavelet.png"/>
+  </media>
+<caption>This is an example of wavelet analysis applied to sunspot size.  The pattern indicates a few patterns, the most prevalent of which is a cycle of roughly 11 years.</caption></figure></para>
+</content>
+
+</document>

@@ -1,0 +1,24 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Continuous Wavelet Transform</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41838</md:content-id>
+  <md:title>The Continuous Wavelet Transform</md:title>
+  <md:abstract/>
+  <md:uuid>d6b6ea0c-10d7-437a-bfdb-a5ecc985f6c1</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-426">The Continuous Wavelet Transform allows us to see the correlation of all the different lengths wavelets to the signal itself in the time domain. Use the cwt command in Matlab to obtain the transform. What is interesting about this transform, unlike the Fourier transform, is that it allows one to see breaks within the original signal and the exact position of those breaks as seen in the following figure. </para><para id="delete_me"><figure id="sin-wave">
+  <title>Sine Wave with Break</title>
+  <media id="sinwave" alt="A sine wave with a break">
+    <image mime-type="image/jpeg" src="../../media/sinwave.jpg"/>
+  </media>
+  <caption>
+     Notice the definite break in the middle of the sine wave.
+  </caption>
+</figure>
+  </para><para id="eip-683">We can now use this wavelet transform on other non-periodic signals to get a more detailed response from the Fourier Transform. </para>
+</content>
+
+</document>

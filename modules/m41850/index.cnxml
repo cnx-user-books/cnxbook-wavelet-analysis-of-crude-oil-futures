@@ -1,0 +1,31 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Application to Crude Oil Futures</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41850</md:content-id>
+  <md:title>Application to Crude Oil Futures</md:title>
+  <md:abstract/>
+  <md:uuid>a9cdec5e-749d-46dc-a12c-b1f53ac9b405</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">The Continuous Wavelet Transform and Discrete Wavelet Transform were both used in the non-linear and aperiodic Crude Oil Futures signal. It allowed us to see possible periodicity and trends within the signal. The next two figures shows us both the Continuous and Discrete wavelet transforms. </para><para id="eip-865"><figure id="cute-dog">
+  <title>Crude Oil Futures Continuous Wavelet Transform</title>
+  <media id="dogpic" alt="A dog sitting on a bed">
+    <image mime-type="image/jpeg" src="../../media/ContinousWaveTransform2.jpg"/>
+  </media>
+  <caption>
+     Continuous Wavelet Transform of Crude Oil Futures.
+  </caption>
+</figure></para><para id="eip-819"><figure id="blah">
+  <title>Level 3 Approximation of Crude Oil Futures</title>
+  <media id="CrudeOil" alt="Crude">
+    <image mime-type="image/jpeg" src="../../media/ApproximationsDetails.jpg"/>
+  </media>
+  <caption>
+     The Level 3 Approximation of Crude Oil Futures.
+  </caption>
+</figure></para>
+</content>
+
+</document>

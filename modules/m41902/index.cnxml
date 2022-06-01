@@ -1,0 +1,23 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Fourier Analysis to Uncover Seasonality</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41902</md:content-id>
+  <md:title>Fourier Analysis to Uncover Seasonality</md:title>
+  <md:abstract/>
+  <md:uuid>d714952c-c51f-4b2f-9249-26ddb6641cab</md:uuid>
+</metadata>
+
+<content>
+  <para id="Fourier1"><title>Fourier Analysis Applied to Crude Oil Futures</title><!-- Insert module text here -->
+In order to find seasonality, we first applied Fourier analysis (FFT) to the time series, expecting to simply uncover a degree of periodicity in the price of the futures.  However, no semblance of periodicity was found.  A plot of the Fourier coefficients in the complex plane gives a simple view of the results, which are highly inconclusive as the "frequencies" are centered around zero and are highly non-specific.
+</para>
+<para id="Fourier2">
+On further research, it became evident that in non-linear time series, linear analysis (i.e. traditional Fourier analysis) is not a valid approach.  This is because simple Fourier analysis does not account for trends, drift, abrupt changes, and beginnings and ends of events, all of which are incredibly important parts of signals.
+</para><para id="eip-257"><title>Placeholder for Picture</title><media id="FC" alt="Fourier Coefficients">
+     <image mime-type="image/png" src="../../media/FourierCoefficients.jpg"/>
+  </media></para>
+
+</content>
+
+</document>
