@@ -1,59 +1,21 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Techreport">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Techreport" authors="Ian Akash Morrison">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11397</md:content-id>
-  <md:title>Wavelet Analysis of Crude Oil Futures</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>2df1b1f9-cd38-4ef1-92fa-a56705aabab0</md:uuid>
-<md:slug>wavelet-analysis-of-crude-oil-futures</md:slug>
-</metadata>
-
+    <md:content-id>col11397</md:content-id>
+    <md:title>Wavelet Analysis of Crude Oil Futures</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>en</md:language>
+    <md:uuid>2df1b1f9-cd38-4ef1-92fa-a56705aabab0</md:uuid>
+    <md:slug>wavelet-analysis-of-crude-oil-futures</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m41906"/>
-        
-      
-    
-    
-      <col:module document="m41899"/>
-        
-      
-    
-    
-      <col:module document="m41902"/>
-        
-      
-    
-    
-      <col:module document="m41905"/>
-        
-      
-    
-    
-      <col:module document="m41838"/>
-        
-      
-    
-    
-      <col:module document="m41839"/>
-        
-      
-    
-    
-      <col:module document="m41850"/>
-        
-      
-    
-    
-      <col:module document="m41887"/>
-        
-      
-    
+    <col:module document="m41906"/>
+    <col:module document="m41899"/>
+    <col:module document="m41902"/>
+    <col:module document="m41905"/>
+    <col:module document="m41838"/>
+    <col:module document="m41839"/>
+    <col:module document="m41850"/>
+    <col:module document="m41887"/>
   </col:content>
 </col:collection>
